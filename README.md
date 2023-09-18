@@ -1,10 +1,3 @@
-# Poseidon ZKP
-
-Poseidon ZK scales and make easy of zkDApp development in Ethereum. Poseidon ZKP contains the ZK Primitives that Poseidon offers/supports. A ZK Primitives include:
-- ZKP circuit (usually written in Circom)
-- Solidity smart contract, containing the verifier and other functions
-- TypeScript SDK, containing functions to help DApp Devs generating ZKP and doing other crypptogrpahic operations on their DApp.
-
 ## Prerequisite
 
 **Setup Yarn v2 to enable workspace feature**
